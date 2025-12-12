@@ -25,7 +25,7 @@ Mental-Health-Canada/
 
 1. MentalHealth_Canada.ipynb -- This file explores the Mental Health and Access to Care Survey (MHACS) dataset for understanding of the problem space
 2. Data_Normalization.ipynb -- This file contains the normalization of dataset coming from Kaggle and HuggingFace such as: GoEmotion; DailyDialog; Empathetic Dialogues Facebook AI; Mental HEalth Counselling Conversation; Suicide and Depression Detection; Mental Chat 16 K; and Evidence Based Prorietary which contains synthetic data created by me that complements the training of the model.
-3. 02_Inspect_Normalized_Datasets.ipynb 
+3. 02_Inspect_Normalized_Datasets.ipynb -- This file finalizes the structure of all the datasets. 
 4. Train_DistilBERT_Emotion_Classifier.ipynb
 5. Train_DistilBERT_Emotion_Safety_Classifier.ipynb
 6. Train_DistilBERT_NeedIntent_Classifier.ipynb
@@ -71,5 +71,4 @@ The project follows principles informed by:
 
 
 Jorge Martinez
-Applied AI Solutions Development
 Focus: AI-assisted mental-health technologies, UX strategy, and human-centered AI systems.
