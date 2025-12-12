@@ -22,16 +22,14 @@ Detects cognitive distortions such as catastrophizing, overgeneralization, and b
 
 Repository Structure
 Mental-Health-Canada/
-│
-├── MentalHealth_Canada.ipynb -- This file explores the Mental Health and Access to Care Survey (MHACS) dataset for understanding of the problem space
-├── Data_Normalization.ipynb -- This file contains the normalization of dataset coming from Kaggle and HuggingFace such as: GoEmotion; DailyDialog; Empathetic Dialogues Facebook AI; Mental HEalth Counselling Conversation; Suicide and Depression Detection; Mental Chat 16 K; and Evidence Based Prorietary which contains synthetic data created by me that complements the training of the model.
-├── 02_Inspect_Normalized_Datasets.ipynb 
-│
-├── Train_DistilBERT_Emotion_Classifier.ipynb
-├── Train_DistilBERT_Emotion_Safety_Classifier.ipynb
-├── Train_DistilBERT_NeedIntent_Classifier.ipynb
-├── Train_DistilBERT_Strategy_Classifier.ipynb
-│
+
+1. MentalHealth_Canada.ipynb -- This file explores the Mental Health and Access to Care Survey (MHACS) dataset for understanding of the problem space
+2. Data_Normalization.ipynb -- This file contains the normalization of dataset coming from Kaggle and HuggingFace such as: GoEmotion; DailyDialog; Empathetic Dialogues Facebook AI; Mental HEalth Counselling Conversation; Suicide and Depression Detection; Mental Chat 16 K; and Evidence Based Prorietary which contains synthetic data created by me that complements the training of the model.
+3. 02_Inspect_Normalized_Datasets.ipynb 
+4. Train_DistilBERT_Emotion_Classifier.ipynb
+5. Train_DistilBERT_Emotion_Safety_Classifier.ipynb
+6. Train_DistilBERT_NeedIntent_Classifier.ipynb
+7. Train_DistilBERT_Strategy_Classifier.ipynb
 
 How to Use This Repository:
 
